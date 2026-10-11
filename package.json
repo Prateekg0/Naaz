@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "build": "npx @tailwindcss/cli -i ./public/css/input.css -o ./public/css/style.css --minify"
+    "build": "npx @tailwindcss/cli -i ./public/css/style.css -o ./public/css/style.css --minify"
   },
   "keywords": [],
   "author": "",
